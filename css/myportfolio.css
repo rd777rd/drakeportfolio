@@ -1,11 +1,3 @@
-/*
-
-OneTel Template
-
-http://www.templatemo.com/tm-468-onetel
-
-*/
-
 body
 	{
 		background: #101010;
@@ -110,7 +102,7 @@ img {
   	background-color: transparent;
 }
 .navbar-default .navbar-toggle {
-  	background: #d54ab6;
+  	background: #15ba46;
   	border-radius: 0px;
    	border: none;
    	margin-top: 20px;
@@ -211,8 +203,18 @@ img {
 
 /* team section */
 #team {
+  display:inline-block;
   padding-top: 60px;
   padding-bottom: 80px;
+  text-align: center;
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+}
+#team .container
+{
+  display:inline-block;
+  text-align: center;
 }
 #team h2 {
   padding-bottom: 30px;
