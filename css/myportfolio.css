@@ -249,6 +249,9 @@ img {
 }
 
 /* portfolio section */
+.projects{
+	margin-right:10px;
+}
 #portfolio-header {
   background: url('../images/portfolio-header.jpg') no-repeat;
   background-size: cover;
